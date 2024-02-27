@@ -1,0 +1,65 @@
+body{
+  color: black;
+  font-family: Arial;
+  font-size: 15px;
+  padding: 5px;
+}
+
+
+
+.title{
+  color: black;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20;
+
+}
+
+.subTitle{
+  color: rgb(88, 86, 86);
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.section{
+  max-width: 1200px;
+  margin: 20px auto;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: left;
+
+}
+
+.section-example{
+  margin-bottom: 20px;
+
+}
+
+.section-example .location{
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.company-name{
+  max-width: 800px;
+  margin: 20px auto;
+  border-radius: 5px;
+  padding: 20px;
+  font-weight: bold;
+
+}
+
+.link{
+  margin-bottom: 20px;
+}
+
+.logo{
+  width: 25px;
+  max-width: 100%;
+  height: auto;
+
+}
