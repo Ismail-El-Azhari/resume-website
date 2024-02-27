@@ -63,3 +63,8 @@ body{
   height: auto;
 
 }
+
+.dates{
+  color: gray;
+  font-weight: bold;
+}
