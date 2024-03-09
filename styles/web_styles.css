@@ -68,3 +68,42 @@ body{
   color: gray;
   font-weight: bold;
 }
+
+.website-button{
+  color:white;
+  background-color: blue;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 30px;
+  transition: color 0.7s, background-color 0.7s;
+  margin: 5px;
+
+}
+
+.website-button:hover{
+  background-color: white;
+  color: blue;
+}
+
+.website-button:active{
+  opacity: 0.3;
+}
+
+.video-button{
+  color:white;
+  background-color: red;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 30px;
+  transition: color 1s, background-color 1s;
+  margin: 5px;
+
+}
+
+.video-button:hover{
+  opacity: 0.8;
+}
+
+.video-button:active{
+  opacity: 0.3;
+}
